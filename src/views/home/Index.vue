@@ -75,7 +75,7 @@
                 <div class="card h-100 shadow-sm border-0 rounded-lg">
                   <div class="card-img">
                     <img
-                      :src="path + '/storage/photos/' + photo.image"
+                      :src="path + '/images/' + photo.image"
                       class="w-100"
                       style="height: 200px;object-fit: cover;border-top-left-radius: .3rem;border-top-right-radius: .3rem;"
                     />
